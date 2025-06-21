@@ -32,7 +32,7 @@ Advanced users may find this extremely easy and can easily write this in one lin
 range(101)), 5050
 
   
-------Siolution------
+------Solution------
 '''
 
 

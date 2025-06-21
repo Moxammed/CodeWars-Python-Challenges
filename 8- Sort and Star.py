@@ -21,7 +21,7 @@ You should not remove or add elements from/to the array.
 
  
 
-------Siolution------
+------Solution------
 '''
 def two_sort(array):
     sorted_array = sorted(array)       

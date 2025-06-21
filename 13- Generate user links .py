@@ -21,7 +21,7 @@ use this as a reference https://www.w3schools.com/tags/ref_urlencode.asp
   'colbydauph', 'http://www.codewars.com/users/colbydauph'
 
   
-------Siolution------
+------Solution------
 '''
 import urllib.parse
 

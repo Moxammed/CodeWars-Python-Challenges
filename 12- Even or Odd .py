@@ -12,7 +12,7 @@ Create a function that takes an integer as an argument and returns "Even" for ev
   even_or_odd(0) should return "Even"'
  
 
-------Siolution------
+------Solution------
 '''
 
 

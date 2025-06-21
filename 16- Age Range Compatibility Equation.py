@@ -46,7 +46,7 @@ age = 5    =>   "4-5"
 age = 17   =>   "15-20"
 
   
-------Siolution------
+------Solution------
 '''
 
 def dating_range(age):

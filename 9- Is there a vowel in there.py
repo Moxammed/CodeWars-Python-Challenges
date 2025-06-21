@@ -17,7 +17,7 @@ input [100,100,116,105,117,121]=>[100,100,116,"i","u",121] output Return the res
 
  
 
-------Siolution------
+------Solution------
 '''
 
 def is_vow(inp):

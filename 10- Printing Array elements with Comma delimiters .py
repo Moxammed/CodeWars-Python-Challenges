@@ -44,7 +44,7 @@ Note2: the input data can be: boolean array, array of objects, array of string a
 
  
 
-------Siolution------
+------Solution------
 '''
 
 def print_array(arr):

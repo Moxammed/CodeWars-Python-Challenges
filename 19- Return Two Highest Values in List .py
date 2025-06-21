@@ -13,7 +13,7 @@ Examples:
 
 
   
-------Siolution------
+------Solution------
 '''
 
 def two_highest(arg1):

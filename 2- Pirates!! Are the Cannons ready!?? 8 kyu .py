@@ -1,3 +1,4 @@
+'''
 Challenge:
 Ahoy Matey!
 Welcome to the seven seas.
@@ -23,6 +24,7 @@ d = {'Mike':'nay','Joe':'nay','Johnson':'nay','Peter':'nay'}
 
 
 Solution:
+'''
 def cannons_ready(gunners):
     for i in gunners:
         if gunners[i]=="nay":

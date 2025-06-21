@@ -1,3 +1,4 @@
+'''
 You are an intern working in the software development department of the X-COM agency, responsible for fighting off a large-scale invasion of extraterrestrials. Your task for today is described with the bug report below:
 
 [BUG] XCOM-409: Flight distance of Interceptor planes is miscalculated
@@ -49,8 +50,10 @@ def example_tests():
 Solution:
 # speed of aircrafts is given in *knots*
 # travelTime is in *minutes*
-# travel distance should be returned in *kilometers*
+# travel distance should be returned in *kilometers*'
 
+
+'''
 def travel_distance(avg_speed, travel_time):
     KM_PER_MILE = 1.852
     travel_hours = travel_time / 60  # Convert minutes to hours

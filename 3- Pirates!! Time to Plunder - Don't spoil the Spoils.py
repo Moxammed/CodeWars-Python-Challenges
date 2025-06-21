@@ -1,3 +1,4 @@
+'''
 Ahoy Matey!
 
 If you have succesffully managed your cannon crew and only fired when the cannons were ready then you have won the naval battle. If you haven't, do the Kata here.
@@ -53,6 +54,7 @@ test.assert_equals(spoils(30, .2, 4, crew),"Yo-Ho. Yo-Ho. A pirate's life for me
 
 
 Solution:
+'''
 def spoils(spoils_total, expenses, captain_tax, crew):
     expense_amount = expenses * spoils_total
     new_total = spoils_total - expense_amount - captain_tax
