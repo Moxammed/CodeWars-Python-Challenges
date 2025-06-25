@@ -110,7 +110,7 @@ def alias_gen(f_name, l_name):
 
 
 '''
-If Dictionary was preload then
+If Dictionary was preload then and Another Solution
 
 def alias_gen(f_name, l_name):
 
